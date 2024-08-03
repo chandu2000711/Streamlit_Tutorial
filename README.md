@@ -9,6 +9,5 @@ Features
 - Visualizations: Includes various plots to visualize data and model performance, including confusion matrix, feature importance, and more.
 - Media Upload: Users can upload and display images, videos, and audio files.
 
-Installation
-Clone this repository and install the required libraries:
+
 
